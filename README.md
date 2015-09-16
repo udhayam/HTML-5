@@ -1,2 +1,2 @@
 # HTML-5
-Step By Step from scratch
+Step By Step Guide from scratch
